@@ -100,8 +100,7 @@ ENV/
 # mypy
 .mypy_cache/
 
+# devcontainer
 .devcontainer/devcontainer.json
-
 .devcontainer/docker-compose.yml
-
 .devcontainer/Dockerfile
